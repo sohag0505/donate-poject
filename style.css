@@ -1,0 +1,54 @@
+.header-title {
+    background-image: url(images/donation9.jpg);
+    background-blend-mode: overlay;
+    height: 70vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+
+.header-title h1,
+h2 {
+    color: rgb(16, 156, 211);
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 80px;
+}
+
+.header-title .btn-primary {
+    background-color: brown;
+}
+
+.donate-today .donate-title {
+    text-align: center;
+    font-size: 32px;
+    color: #707070;
+}
+
+main {
+    margin-top: 150px;
+}
+
+.donate-today .taka {
+    display: flex;
+    margin: 20px 30px;
+    gap: 70px;
+    padding-left: 39px;
+    font-size: 32px;
+    align-items: center;
+    justify-content: center;
+}
+
+.family {
+    display: flex;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    gap: 50px;
+    margin: 50px 150px 50px 150px;
+}
+
+.donation {
+    display: flex;
+    margin: 150px 150px 50px 150px;
+}
